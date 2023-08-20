@@ -11,7 +11,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/naveen4644/cloudformation.git'
+                git 'https://github.com/mbahsamuel/Cloud-formation.git'
             }
         }
 
